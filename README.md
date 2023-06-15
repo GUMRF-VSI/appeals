@@ -1,1 +1,1 @@
-# appeals-service
+# Appeals Service
