@@ -30,6 +30,8 @@
 | last_login                    |              |           | timestampz   | время последнего входа в систему               |                       |
 | created_at                    |              |           | timestampz   | время создание учетной записи                  |                       |
 | updated_at                    |              |           | timestampz   | время последнего редактирования учетной записи |                       |
+| is_privacy_policy_agree | | | boolean | политика конфиденциальности | false |
+| is_term_of_use_agree | | | boolean | правила площадки | false |
 
 #### Роль
 
