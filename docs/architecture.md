@@ -26,7 +26,7 @@
 | last_name                     |              |           | varchar(255) | (nullable) фамилия пользователя                |                       |
 | first_name                    |              |           | varchar(255) | (nullable) имя пользователя                    |                       |
 | middle_name                   |              |           | varchar(255) | (nullable) отчество пользователя               |                       |
-| is_active                     |              |           | boolean      | ключ активности учетной записи                 | true                  |
+| is_active                     |              |           | boolean      | ключ активности учетной записи                 | false                  |
 | last_login                    |              |           | timestampz   | время последнего входа в систему               |                       |
 | created_at                    |              |           | timestampz   | время создание учетной записи                  |                       |
 | updated_at                    |              |           | timestampz   | время последнего редактирования учетной записи |                       |
